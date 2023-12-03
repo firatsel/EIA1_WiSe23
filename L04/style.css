@@ -1,10 +1,46 @@
 html { 
-	background-color: rgb(191, 216, 224); 
-	color: rgb(191, 191, 208);
+	background-color: rgb(232,228,212); 
+	color: rgb(232,228,212);
+	text-align: center;
+	font-size: large;
 }
 
-.zeile {
+.intro1{
 	float: left;
-	width: 40%;
-	padding: 5px;
-  }
+	text-align: center;
+	position: relative;
+	height: 160px;
+	width: 50%;}
+	
+	.intro2{
+	position: absolute;
+	margin: auto;}
+
+	.intro3{
+		position: absolute;
+		margin: auto;}
+	
+	.middle1{
+		position: absolute;
+		margin: auto;}
+	
+	.middle2{
+		position: absolute;
+		margin: auto;}
+
+	.middle3{
+		position: absolute;
+		margin: auto;}
+
+	.outro1{
+		position: absolute;
+		margin: auto;}
+		
+	.outro2{
+		position: absolute;
+		margin: auto;}
+	
+	.outro3{
+		position: absolute;
+		margin: auto;}
+  
