@@ -27,6 +27,8 @@ if (myPrompt == "rechts") {
 }
 
 // Ausführung der if und else Funktion wird definiert durch "function":
+// Notiz: Mir wurde gesagt, dass ich die function am Ende hinschreiben soll,
+// jedoch bin ich mir unsicher, ob das so passt. 
 
 function textAdventure(myStories) {
     let result;
@@ -41,3 +43,5 @@ function textAdventure(myStories) {
     result = 'positive'; }
     return result;
   }
+
+  

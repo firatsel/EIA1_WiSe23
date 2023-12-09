@@ -1,6 +1,3 @@
-let myNumer = 13;
-let myString = "Hallo";
-let myBoolean = true;
 
 let myPrompt = prompt("Du nimmst gemeinsam mit Archäologen an einer Expedition teil. Ihr befindet euch in einer Ruine und hört seltsame Stimmen. Einige der Teilnehmer meinen die Stimmen von rechts zu hören und andere meinen sie kommen von links. Für welchen Weg entscheidest du dich, rechts oder links?");
 console.log(myPrompt)
